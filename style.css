@@ -1,0 +1,32 @@
+html, body {
+  background: url(pexels.jpg) no-repeat center center fixed;
+  background-size: cover;
+  font-family: cursive;
+  height: 100%;
+}
+
+h1 {
+  color: #2599C4;
+}
+
+hr {
+  /* background-color: aliceblue; */
+  border: 1px solid aliceblue;
+  opacity: 0.7;
+  margin: auto;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  border-radius: 500px;
+}
+
+.container {
+  height: 100%;
+}
+.buffer{
+    margin-top: 50px;
+}
